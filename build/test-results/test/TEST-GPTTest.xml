@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GPTTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-24T09:02:01" hostname="Chirags-MacBook-Pro.local" time="2.298">
+  <properties/>
+  <testcase name="verifyGPTResponse()" classname="GPTTest" time="2.298"/>
+  <system-out><![CDATA[
+
+Please generate 10 unique email addresses separated by semicolons
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
